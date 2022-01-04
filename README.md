@@ -95,8 +95,8 @@
 #### -For category data
 - **Fisher's exact test** *[C. A. Karlo, P. L. Di Paolo, J. Chaim, A. A. Hakimi, I. Ostrovnaya, P. Russo, H. Hricak, R. Motzer, J. J. Hsieh, and O. Akin, “Radiogenomics of clear cell renal cell carcinoma: associations between CT imaging features and mutations,” Radiology, vol. 270, no. 2, pp. 464–471, 2014.](https://pubs.rsna.org/doi/abs/10.1148/radiol.13130663)*
 - **Spearman rank correlation coefficients** 
-1. *[X. Zhan, J. Cheng, Z. Huang, Z. Han, B. Helm, X. Liu, J. Zhang, T.-F. Wang, D. Ni, and K. Huang, “Correlation Analysis of Histopathology and Proteogenomics Data for Breast Cancer,” Molecular & Cellular Proteomics, vol. 18, 2019.](https://www.mcponline.org/article/S1535-9476(20)32760-2/fulltext)*  **code: ** https://github.com/xiaohuizhan/cor_image_omics_BRCA  **dataset: ** *[TCGA](https://tcga-data.nci.nih.gov/tcga/.)* 
-2. *[J. Cheng, J. Zhang, Y. Han, X. Wang, X. Ye, Y. Meng, A. Parwani, Z. Han, Q. Feng, and K. Huang, “Integrative Analysis of Histopathological Images and Genomic Data Predicts Clear Cell Renal Cell Carcinoma Prognosis,” Cancer Research, vol. 77, no. 21, 2017.](https://pubmed.ncbi.nlm.nih.gov/29092949/)* **code:** https://github.com/chengjun583/image-mRNA-prognostic-model* 
+1. *[X. Zhan, J. Cheng, Z. Huang, Z. Han, B. Helm, X. Liu, J. Zhang, T.-F. Wang, D. Ni, and K. Huang, “Correlation Analysis of Histopathology and Proteogenomics Data for Breast Cancer,” Molecular & Cellular Proteomics, vol. 18, 2019.](https://www.mcponline.org/article/S1535-9476(20)32760-2/fulltext)*  **code:** https://github.com/xiaohuizhan/cor_image_omics_BRCA  **dataset:** *[TCGA](https://tcga-data.nci.nih.gov/tcga/.)* 
+2. *[J. Cheng, J. Zhang, Y. Han, X. Wang, X. Ye, Y. Meng, A. Parwani, Z. Han, Q. Feng, and K. Huang, “Integrative Analysis of Histopathological Images and Genomic Data Predicts Clear Cell Renal Cell Carcinoma Prognosis,” Cancer Research, vol. 77, no. 21, 2017.](https://pubmed.ncbi.nlm.nih.gov/29092949/)* **code:** *https://github.com/chengjun583/image-mRNA-prognostic-model* 
 
 
 
@@ -145,7 +145,7 @@
 2. *[K.-H. Yu, G. J. Berry, D. L. Rubin, C. RA˜ ©, R. B. Altman, and M. Snyder, “Association of Omics Features with Histopathology Patterns in Lung Adenocarcinoma,” Cell Systems, vol. 5, no. 6, pp. 620–627.e3, 2017.](https://www.sciencedirect.com/science/article/pii/S2405471217304842)*
 3. *[H. Zeng, L. Chen, M. Zhang, Y. Luo, and X. Ma, “Integration of histopathological images and multi-dimensional omics analyses predicts molecular features and prognosis in high-grade serous ovarian cancer,” Gynecologic Oncology, 2021.](https://www.sciencedirect.com/science/article/pii/S0090825821005771)*
 - **Vector addition or subtraction** *[S.-P. Deng, D. Lin, V. D. Calhoun, and Y.-P.Wang, “Schizophrenia genes discovery by mining the minimum spanning trees from multi-dimensional imaging genomic data integration,” in 2016 IEEE International Conference on Bioinformatics and Biomedicine (BIBM), 2016, pp. 1493–1500.](https://ieeexplore.ieee.org/abstract/document/7822743/)* 
-- **Kronecker product** * [R. J. Chen, M. Y. Lu, J.Wang, D. F. K.Williamson, S. J. Rodig, N. I. Lindeman, and F. Mahmood, “Pathomic fusion: An integrated framework for fusing histopathology and genomic features for cancer diagnosis and prognosis,” IEEE Transactions on Medical Imaging, pp. 1–1, 2020.](https://ieeexplore.ieee.org/document/9186053)*
+- **Kronecker product** *[R. J. Chen, M. Y. Lu, J.Wang, D. F. K.Williamson, S. J. Rodig, N. I. Lindeman, and F. Mahmood, “Pathomic fusion: An integrated framework for fusing histopathology and genomic features for cancer diagnosis and prognosis,” IEEE Transactions on Medical Imaging, pp. 1–1, 2020.](https://ieeexplore.ieee.org/document/9186053)*
 
 
 #### -Sparse representation
